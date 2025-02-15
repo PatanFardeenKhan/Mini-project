@@ -1,4 +1,4 @@
-# mini-project
+# Mini-project
 # 🛒 Mini Shopping Project
 
 This project is a simple **responsive shopping website** using **Bootstrap, JavaScript, and FakeStore API**.
